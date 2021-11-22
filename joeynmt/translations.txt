@@ -1,0 +1,42 @@
+Steps: 100	Loss: 29641.04297	PPL: 469.12527	bleu: 0.01651	LR: 0.00030000	*
+Steps: 200	Loss: 29303.06250	PPL: 437.35040	bleu: 0.00000	LR: 0.00030000	*
+Steps: 300	Loss: 29319.38477	PPL: 438.83441	bleu: 0.01352	LR: 0.00030000	
+Steps: 400	Loss: 29250.28711	PPL: 432.58688	bleu: 0.02931	LR: 0.00030000	*
+Steps: 500	Loss: 29080.83984	PPL: 417.64059	bleu: 0.03035	LR: 0.00030000	
+
+
+
+2021-11-20 17:32:20,707 - INFO - joeynmt.training - Example #1
+2021-11-20 17:32:20,708 - INFO - joeynmt.training - 	Source:     One shows a girl next to her 20-year-old brother in military uniform.
+2021-11-20 17:32:20,708 - INFO - joeynmt.training - 	Reference:  Bachaza ukuthi umoya esiwuphefumulayo uwagcwalisa kanjani amaphaphu ethu nge-oksijini.
+2021-11-20 17:32:20,708 - INFO - joeynmt.training - 	Hypothesis: Uwwwbbbbbbbbsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssnnnnnnnnnnnnnne.
+2021-11-20 17:32:20,708 - INFO - joeynmt.training - Example #2
+2021-11-20 17:32:20,708 - INFO - joeynmt.training - 	Source:     Yo Soy Muy Macho (1953) Silvia Pinal, Miguel Torruco.
+2021-11-20 17:32:20,708 - INFO - joeynmt.training - 	Reference:  UConor Garland ufake igoli le-11 leqembu lakhe ebelihamba phambili ehlandleni lesithathu, bese uClayton Keller wazisa kabili kumaCoyote, ogxumise i-Edmonton yaba sendaweni yokuqala Ophikweni lakuPacific. I-Arizona inqobe imincintiswano emibili yokuqala ohambweni lwayo lwemidlalo emine futhi yathuthukela ku-10-3-3 engakho ekhaya kulesi sikhathi sokudlala.
+2021-11-20 17:32:20,709 - INFO - joeynmt.training - 	Hypothesis: I-KBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBo o o o o o o o o o o o o o o o o o o o o o o e
+2021-11-20 17:32:20,709 - INFO - joeynmt.training - Example #3
+2021-11-20 17:32:20,709 - INFO - joeynmt.training - 	Source:     On the other side, President Vladimir V. Putin of Russia, having promoted himself for years as a defender of Russia's reach as an Orthodox power, also has a keen political interest and desperately wants to keep Ukraine under the wing of the Moscow patriarch.
+2021-11-20 17:32:20,709 - INFO - joeynmt.training - 	Reference:  Umuntu uveza intombazane eseduze kukamfowabo oneminyaka engama-20 ogqoke umfaniswano wamasosha.
+2021-11-20 17:32:20,709 - INFO - joeynmt.training - 	Hypothesis: """"""""""""""""""""""""""""""""""""""""UUUUUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+2021-11-20 17:32:20,709 - INFO - joeynmt.training - Validation result (greedy) at epoch  21, step      400: bleu:   0.03, loss: 29250.2871, ppl: 432.5869, duration: 13.3922s
+
+
+
+2021-11-20 17:29:49,353 - INFO - joeynmt.training - Example #0
+2021-11-20 17:29:49,354 - INFO - joeynmt.training - 	Source:     Conor Garland added his team-leading 11th goal in the third period, and Clayton Keller notched two assists for the Coyotes, who leapfrogged idle Edmonton into first place in the Pacific Division. Arizona has won the first two contests of its four-game road trip and improved to 10-3-3 away from home this season.
+2021-11-20 17:29:49,354 - INFO - joeynmt.training - 	Reference:  Ngibuke umdlalo, ngibe nomzuzu wenjabulo ephelele.
+2021-11-20 17:29:49,354 - INFO - joeynmt.training - 	Hypothesis: UUUukuthi ukuthi ukuthi ukuthi ukuthi
+2021-11-20 17:29:49,354 - INFO - joeynmt.training - Example #1
+2021-11-20 17:29:49,355 - INFO - joeynmt.training - 	Source:     One shows a girl next to her 20-year-old brother in military uniform.
+2021-11-20 17:29:49,362 - INFO - joeynmt.training - 	Reference:  Bachaza ukuthi umoya esiwuphefumulayo uwagcwalisa kanjani amaphaphu ethu nge-oksijini.
+2021-11-20 17:29:49,362 - INFO - joeynmt.training - 	Hypothesis: UUUukuthi ukuthi ukuthi ukuthi
+2021-11-20 17:29:49,362 - INFO - joeynmt.training - Example #2
+2021-11-20 17:29:49,363 - INFO - joeynmt.training - 	Source:     Yo Soy Muy Macho (1953) Silvia Pinal, Miguel Torruco.
+2021-11-20 17:29:49,363 - INFO - joeynmt.training - 	Reference:  UConor Garland ufake igoli le-11 leqembu lakhe ebelihamba phambili ehlandleni lesithathu, bese uClayton Keller wazisa kabili kumaCoyote, ogxumise i-Edmonton yaba sendaweni yokuqala Ophikweni lakuPacific. I-Arizona inqobe imincintiswano emibili yokuqala ohambweni lwayo lwemidlalo emine futhi yathuthukela ku-10-3-3 engakho ekhaya kulesi sikhathi sokudlala.
+2021-11-20 17:29:49,363 - INFO - joeynmt.training - 	Hypothesis: UUUukuthi ukuthi ukuthi ukuthi
+2021-11-20 17:29:49,363 - INFO - joeynmt.training - Example #3
+2021-11-20 17:29:49,364 - INFO - joeynmt.training - 	Source:     On the other side, President Vladimir V. Putin of Russia, having promoted himself for years as a defender of Russia's reach as an Orthodox power, also has a keen political interest and desperately wants to keep Ukraine under the wing of the Moscow patriarch.
+2021-11-20 17:29:49,364 - INFO - joeynmt.training - 	Reference:  Umuntu uveza intombazane eseduze kukamfowabo oneminyaka engama-20 ogqoke umfaniswano wamasosha.
+2021-11-20 17:29:49,364 - INFO - joeynmt.training - 	Hypothesis: UUUukuthi ukuthi ukuthi ukuthi ukuthi
+2021-11-20 17:29:49,366 - INFO - joeynmt.training - Validation result (greedy) at epoch   6, step      100: bleu:   0.02, loss: 29641.0430, ppl: 469.1253, duration: 1.4963s
+
